@@ -35,7 +35,7 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-        thucHienPhepTinh();
+        //thucHienPhepTinh();
         System.out.println("Diện tích HCN = "+tinhDienTichHCN(3,5));
         giaiPTB1();
     }
